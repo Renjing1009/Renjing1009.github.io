@@ -24,25 +24,25 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IMG_20191228_170234.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Ren Jing"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral fellow at Institute of Applied Ecology, Chinese Academy of Sciences."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "China/France"
+  employer         : "Institute of Applied Ecology, Chinese Academy of Sciences"
   uri              : # URL
   email            : "jingren1009@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=iyKHMa0AAAAJ&hl=zh-CN"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8855-8436"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Jing-Ren-54?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
 
