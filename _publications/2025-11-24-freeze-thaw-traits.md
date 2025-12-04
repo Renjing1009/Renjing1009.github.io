@@ -2,7 +2,7 @@
 title: "Functional traits shape tree growth response to winter freeze-thaw cycle and neighborhood crowding in humid temperate forests"
 collection: publications
 permalink: /publication/ren-2026-freeze-thaw-traits
-date: 2026-02-15
+date: 2025-11-26
 venue: "Agricultural and Forest Meteorology"
 excerpt: "We show that winter freeze–thaw cycles and neighborhood crowding independently reduce tree growth in a humid temperate forest, and that xylem hydraulic traits mediate species’ sensitivity to these stressors."
 authors: "Jing Ren, Shuai Fang, Guangyou Hao, Fei Lin, Ji Ye, Zhanqing Hao, Xugao Wang, Claire Fortunel"
