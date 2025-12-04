@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_image: /images/CBS_autumn.png   
   overlay_filter: 0.3                      # 0~1，数值越大图片越暗
-  caption: "Phote:Bojian Wang"                     
+  caption: "Photo: Bojian Wang"                     
 redirect_from:
   - /about/
   - /about.html
