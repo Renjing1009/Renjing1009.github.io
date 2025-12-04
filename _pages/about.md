@@ -16,4 +16,4 @@ redirect_from:
 I'm currently a postdoctoral fellow at the Institute of Applied Ecology, Chinese Academy of Sciences, and a recipient of the China Scholarship Council (CSC) scholarship to conduct research in France at IRD.
 
 
-Copyright © 2013 - 2025 by Jing Ren | GitHub
+Copyright © 2021 - 2025 by Jing Ren | GitHub
