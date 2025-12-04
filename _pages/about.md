@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 permalink: /
 title: "Welcome to the Personal Website of Jing Ren!"
 author_profile: true
