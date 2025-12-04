@@ -4,7 +4,7 @@ permalink: /
 title: "Welcome to the Personal Website of Jing Ren!"
 author_profile: true
 header:
-  overlay_image: /images/CBS_autumn.png
+  overlay_image: /images/CBS_LiDAR.png
   overlay_filter: 0.3
   caption: "Photo by Bojian Wang"
 redirect_from:
