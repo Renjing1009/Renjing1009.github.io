@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to the Personal Website of Jing Ren! 
+I'm currently a postdoctoral fellow at Institute of Applied Ecology, Chinese Academy of Sciences"
 author_profile: true
 redirect_from: 
   - /about/
