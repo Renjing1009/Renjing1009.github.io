@@ -11,6 +11,3 @@ citation: "<strong>J. Ren</strong>, S. Fang, G. Hao, F. Lin, J. Ye, Z. Hao, X. W
 
 ---
 
-**Recommended citation**
-
-Ren, J., Fang, S., Hao, G., Lin, F., Ye, J., Hao, Z., Wang, X., & Fortunel, C. (2026). *Functional traits shape tree growth response to winter freeze-thaw cycle and neighborhood crowding in humid temperate forests*. Agricultural and Forest Meteorology, 377, 110954. https://doi.org/10.1016/j.agrformet.2025.110954
