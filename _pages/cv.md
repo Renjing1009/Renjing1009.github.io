@@ -9,43 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in University of Chinese Academy of Sciences, 2022
-* B.S. in Shanxi Agricultural University, 2015
+{% include base_path %}
 
+## Education
+- Ph.D., University of Chinese Academy of Sciences, 2022
+- B.S., Shanxi Agricultural University, 2015
 
-Work experience
-======
-• June 2022 – Present  
-  Postdoctoral Fellow, Institute of Applied Ecology, Chinese Academy of Sciences
+## Work experience
+- **Jun 2022 – Present**: Postdoctoral Fellow, Institute of Applied Ecology, Chinese Academy of Sciences (CAS)
+- **2026 – 2028**: Postdoctoral Researcher, Institut de Recherche pour le Développement (IRD), France
 
-• 2026 – 2028  
-  Postdoctoral Researcher, Institut de Recherche pour le Développement (IRD), France
- 
-
-Publications
-======
+## Publications
 <ul>
 {% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
 </ul>
 
+## Talks
+### Oral presentations
+- **Apr 18, 2025** — The 2nd Young Ecologists Forum, Nanchang, China.
+- **Dec 6, 2025** — National Symposium on Frontiers in Vegetation Science and Plant Functional Ecology, Xiamen, China.
 
-Talks
-======
-
-**Oral Presentations**
-
-- **April 18, 2025** — The 2nd Young Ecologists Forum, Nanchang, China.
-- **December 6, 2025** — National Symposium on Frontiers in Vegetation Science and Plant Functional Ecology, Xiamen, China.
-
-  
-  
-Service
-======
-
-- Reviewer for *Journal of Plant Ecology*.
-- Reviewer for *Journal of Plant Ecology* (Chinese).
-
+## Service
+- Reviewer for *Journal of Plant Ecology (JPE)*; *Chinese Journal of Plant Ecology* (《植物生态学报》).
