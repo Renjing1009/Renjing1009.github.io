@@ -3,18 +3,16 @@ layout: single
 title: "News"
 permalink: /news/
 author_profile: false
-
-<style>
-.page__content p{
-  margin: 0 0 18px 0;  /* 每条新闻间距 */
-  line-height: 1.7;
-}
-.page__content strong{
-  font-weight: 700;
-}
-</style>
-
+classes: wide
+header:
+  overlay_filter: 0.0
+head: |
+  <style>
+    .page__content p { margin: 0 0 18px 0; line-height: 1.7; }
+    .page__content strong { font-weight: 700; }
+  </style>
 ---
+
 
 
 - **2025-11** &mdash; How do winter freeze–thaw cycles and neighborhood crowding independently influence tree growth in a humid temperate forest? See our paper in *Agricultural and Forest Meteorology*.
