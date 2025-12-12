@@ -1,16 +1,12 @@
 ---
 layout: home
 permalink: /
-title: "Welcome to the Personal Website of Jing Ren!"
+title: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-<p style="text-align:center;">
-  <img src="/images/CBS_autumn.png" alt="CBS autumn forest" style="max-width:100%;height:auto;">
-</p>
 
 
 
