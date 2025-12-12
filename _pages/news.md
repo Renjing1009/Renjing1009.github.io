@@ -5,7 +5,6 @@ permalink: /news/
 author_profile: false
 ---
 
-Here you can add news and updates.
 
 - **2025-11** &mdash; Paper accepted in *Agricultural and Forest Meteorology*.
 - **2024-05** &mdash; Paper accepted in *Oecologia*.
