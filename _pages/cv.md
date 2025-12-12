@@ -18,7 +18,8 @@ author_profile: false
 - **2026 – 2028**  
   Postdoctoral Researcher, Institut de Recherche pour le Développement (IRD), France
 
-## Publications
+Publications
+======
 
 <ul>
 {% for post in site.publications reversed %}
@@ -28,12 +29,11 @@ author_profile: false
 
 ## Talks
 
-**Oral presentations**
-
-- **April 18, 2025** — The 2nd Young Ecologists Forum, Nanchang, China.  
+### Oral presentations
+- **April 18, 2025** — The 2nd Young Ecologists Forum, Nanchang, China.
 - **December 6, 2025** — National Symposium on Frontiers in Vegetation Science and Plant Functional Ecology, Xiamen, China.
 
 ## Service
+- Reviewer for *Journal of Plant Ecology* (JPE).
+- Reviewer for *Chinese Journal of Plant Ecology* (*植物生态学报*).
 
-- Reviewer for *Journal of Plant Ecology (JPE)*  
-- Reviewer for *Chinese Journal of Plant Ecology* (*植物生态学报*)
