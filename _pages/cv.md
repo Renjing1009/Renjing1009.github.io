@@ -26,18 +26,26 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
 
-  
+
 Talks
 ======
-Oral Presentations
-• April 18, 2025 — The 2nd Young Ecologists Forum, Nanchang, China.
-• December 6, 2025 — National Symposium on Frontiers in Vegetation Science and Plant Functional Ecology, Xiamen, China.
+
+**Oral Presentations**
+
+- **April 18, 2025** — The 2nd Young Ecologists Forum, Nanchang, China.
+- **December 6, 2025** — National Symposium on Frontiers in Vegetation Science and Plant Functional Ecology, Xiamen, China.
+
   
   
 Service
 ======
-Reviewer for Journal of Plant Ecology; Journal of Plant Ecology (in Chinese).
+
+- Reviewer for *Journal of Plant Ecology*.
+- Reviewer for *Journal of Plant Ecology* (Chinese).
+
