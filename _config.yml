@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_20191228_170234.jpg"
+  avatar           : "/images/IMG_20191228_170234.jpg"
   name             : "Ren Jing"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral fellow at Institute of Applied Ecology, Chinese Academy of Sciences/ Institut de Recherche pour le Développement."
