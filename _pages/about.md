@@ -174,7 +174,6 @@ redirect_from:
 <main class="about-main">
   <div class="content">
 
-    <h1>About me</h1>
 
     <p>
       I am currently a postdoctoral fellow at the Institute of Applied Ecology, Chinese Academy of Sciences, 
