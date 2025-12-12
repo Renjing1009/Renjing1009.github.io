@@ -148,7 +148,7 @@ redirect_from:
 
 <!-- ===== Sidebar ===== -->
 <aside class="about-sidebar">
-  <img class="avatar" src="{{ '/images/bio-photo.jpg' | relative_url }}" alt="Ren Jing photo">
+  <img class="avatar" src="{{ '/images/IMG_20191228_170234.jpg' | relative_url }}" alt="Ren Jing photo">
 
   <h2>Ren Jing</h2>
 
