@@ -160,7 +160,7 @@ redirect_from:
 
   <ul>
     <li>📍 China / France</li>
-    <li>🏫 Institute of Applied Ecology, CAS</li>
+    <li>🏫 Institute of Applied Ecology, Chinese Academy of Sciences</li>
     <li>✉️ <a href="mailto:jingren1009@gmail.com">jingren1009@gmail.com</a></li>
     <li>🔎 <a href="https://scholar.google.com/citations?user=iyKHMa0AAAAJ&hl=zh-CN" target="_blank">Google Scholar</a></li>
     <li>🆔 <a href="https://orcid.org/0000-0001-8855-8436" target="_blank">ORCID</a></li>
